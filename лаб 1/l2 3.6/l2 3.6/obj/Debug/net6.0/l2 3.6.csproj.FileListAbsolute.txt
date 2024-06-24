@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\bin\Debug\net6.0\l2 3.6.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\bin\Debug\net6.0\l2 3.6.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\bin\Debug\net6.0\l2 3.6.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\bin\Debug\net6.0\l2 3.6.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\bin\Debug\net6.0\l2 3.6.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\refint\l2 3.6.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\l2 3.6.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Универ 6 семестр\СПЗ\лаб 1\l2 3.6\l2 3.6\obj\Debug\net6.0\ref\l2 3.6.dll
